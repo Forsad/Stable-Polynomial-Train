@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Data (important for your project)
+data/*
+!data/.gitkeep # To keep the data directory structure but not its contents
+lightning_logs/
+wandb/
+saved_models/
+
+# OS generated files
+.DS_Store
+Thumbs.db 
