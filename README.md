@@ -31,7 +31,6 @@ This framework enables:
 * `notebooks/`: Contains Jupyter notebooks for experiments, examples, and demonstrations across the various datasets mentioned.
 * `notebooks/data/`: Directory for datasets (typically gitignored, see setup instructions if needed).
 * `hfe.yml`: Conda environment file for reproducing the development environment.
-* `pol_kan_hfe_friendly_network.pdf`: The research paper detailing the framework implemented.
 
 ## Installation
 
